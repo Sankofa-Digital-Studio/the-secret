@@ -1,6 +1,6 @@
 # The Secret
 
-Private source repository for the hosted Preview and Share environments of The Secret.
+Private source repository for the hosted Preview and Share environments of The Secret.git
 
 - `preview` is the active acceptance-testing branch.
 - `main` is the stable Share branch.
